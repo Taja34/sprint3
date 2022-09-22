@@ -1,0 +1,254 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "casa"
+      },
+      {
+        "id": 2,
+        "name": "edificios"
+      },
+      {
+        "id": 3,
+        "name": "finca"
+      },
+      {
+        "id": 4,
+        "name": "local"
+      },{
+        "id": 5,
+        "name": "comercial"
+      }
+
+    ],
+    "inmuebles": [
+      {
+        "id": 1,
+        "category": 1,
+        "price": "$ 25,000,000",
+        "image_main": "https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/newsletter/3.jpg?1603331288",
+        "tipo": "HOUSE",
+        "esta":"FOR SALE",
+        "donde":"carepa",
+        "direccion":"por ahi",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"santiago",
+        "hacecuanto": "3 meses",
+        "cuantomide":"<b>2400</b>Sq Ft",
+        "garajes": "2",
+        "baños":"3",
+        "dormitorios":"3"
+       
+      },
+      {
+        "id": 2,
+        "category": 2,
+        "price": "$ 85,000,000",
+        "image_main": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SEPCornerDF.JPG/800px-SEPCornerDF.JPG",
+        "tipo": "BULDING",
+        "esta":"FOR SALE",
+        "donde":"Apartado",
+        "direccion":"41C 85 95 ",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Ramon",
+        "hacecuanto": "10 meses",
+        "cuantomide":"<b>8400</b>Sq Ft",
+        "garajes": "1",
+        "baños":"8",
+        "dormitorios":"10"
+       
+      },
+      {
+        "id": 3,
+        "category": 3,
+        "price": "$ 105,000,000",
+        "image_main": "https://s3.amazonaws.com/images.vive.travel/photos/14513/xlarge/fincas-para-alquilar-cerca-a-armenia-rancho-la-soledad.jpg?1440356847",
+        "tipo": "ESTATE",
+        "esta":"IN RENT",
+        "donde":"Chigorodo",
+        "direccion":"Cl. Luna, Hab. 1",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Rigo",
+        "hacecuanto": "1 mes",
+        "cuantomide":"<b>10400</b>Sq Ft",
+        "garajes": "1",
+        "baños":"3",
+        "dormitorios":"5"
+       
+      },
+      {
+        "id": 4,
+        "category": 4,
+        "price": "$ 35,000,000",
+        "image_main": "https://theressa.net/images/articles/5c86236fbfc14elegir-local-comercial-vidrieras-fachada.jpg",
+        "tipo": "STORE",
+        "esta":"FOR SALE",
+        "donde":"Necocli",
+        "direccion":"Callejón Castillo, 4, Apto 58",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"santiago",
+        "hacecuanto": "2 meses",
+        "cuantomide":"<b>1400</b>Sq Ft",
+        "garajes": "0",
+        "baños":"1",
+        "dormitorios":"0"
+       
+      },
+      {
+        "id": 5,
+        "category": 5,
+        "price": "$ 525,000,000",
+        "image_main": "http://noticartagena.com.co/wp-content/uploads/2018/08/mall-plaza-cartagena.jpg",
+        "tipo": "MALL",
+        "esta":"IN RENT",
+        "donde":"Apartado",
+        "direccion":"Carretera Daniela Carrasco, 63, Hab. 23",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Arturo",
+        "hacecuanto": "8 meses",
+        "cuantomide":"<b>62400</b>Sq Ft",
+        "garajes": "4",
+        "baños":"5",
+        "dormitorios":"15"
+       
+      },
+      {
+        "id": 6,
+        "category": 1,
+        "price": "$ 22,000,000",
+        "image_main": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg?1563747560",
+        "tipo": "HOUSE",
+        "esta":"IN RENT",
+        "donde":"Mutata",
+        "direccion":"Carretera Loera, Casa 67",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Santiago",
+        "hacecuanto": "18 meses",
+        "cuantomide":"<b>2000</b>Sq Ft",
+        "garajes": "1",
+        "baños":"2",
+        "dormitorios":"2"
+       
+      },  {
+        "id": 1,
+        "category": 1,
+        "price": "$ 25,000,000",
+        "image_main": "https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/newsletter/3.jpg?1603331288",
+        "tipo": "HOUSE",
+        "esta":"FOR SALE",
+        "donde":"carepa",
+        "direccion":"por ahi",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"santiago",
+        "hacecuanto": "3 meses",
+        "cuantomide":"<b>2400</b>Sq Ft",
+        "garajes": "2",
+        "baños":"3",
+        "dormitorios":"3"
+       
+      },
+      {
+        "id": 2,
+        "category": 2,
+        "price": "$ 85,000,000",
+        "image_main": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SEPCornerDF.JPG/800px-SEPCornerDF.JPG",
+        "tipo": "BULDING",
+        "esta":"FOR SALE",
+        "donde":"Apartado",
+        "direccion":"41C 85 95 ",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Ramon",
+        "hacecuanto": "10 meses",
+        "cuantomide":"<b>8400</b>Sq Ft",
+        "garajes": "1",
+        "baños":"8",
+        "dormitorios":"10"
+       
+      },
+      {
+        "id": 3,
+        "category": 3,
+        "price": "$ 105,000,000",
+        "image_main": "https://s3.amazonaws.com/images.vive.travel/photos/14513/xlarge/fincas-para-alquilar-cerca-a-armenia-rancho-la-soledad.jpg?1440356847",
+        "tipo": "ESTATE",
+        "esta":"IN RENT",
+        "donde":"Chigorodo",
+        "direccion":"Cl. Luna, Hab. 1",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Rigo",
+        "hacecuanto": "1 mes",
+        "cuantomide":"<b>10400</b>Sq Ft",
+        "garajes": "1",
+        "baños":"3",
+        "dormitorios":"5"
+       
+      },
+      {
+        "id": 4,
+        "category": 4,
+        "price": "$ 35,000,000",
+        "image_main": "https://theressa.net/images/articles/5c86236fbfc14elegir-local-comercial-vidrieras-fachada.jpg",
+        "tipo": "STORE",
+        "esta":"FOR SALE",
+        "donde":"Necocli",
+        "direccion":"Callejón Castillo, 4, Apto 58",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"santiago",
+        "hacecuanto": "2 meses",
+        "cuantomide":"<b>1400</b>Sq Ft",
+        "garajes": "0",
+        "baños":"1",
+        "dormitorios":"0"
+       
+      },
+      {
+        "id": 5,
+        "category": 5,
+        "price": "$ 525,000,000",
+        "image_main": "http://noticartagena.com.co/wp-content/uploads/2018/08/mall-plaza-cartagena.jpg",
+        "tipo": "MALL",
+        "esta":"IN RENT",
+        "donde":"Apartado",
+        "direccion":"Carretera Daniela Carrasco, 63, Hab. 23",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Arturo",
+        "hacecuanto": "8 meses",
+        "cuantomide":"<b>62400</b>Sq Ft",
+        "garajes": "4",
+        "baños":"5",
+        "dormitorios":"15"
+       
+      },
+      {
+        "id": 6,
+        "category": 1,
+        "price": "$ 22,000,000",
+        "image_main": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg?1563747560",
+        "tipo": "HOUSE",
+        "esta":"IN RENT",
+        "donde":"Mutata",
+        "direccion":"Carretera Loera, Casa 67",
+        "imgPerfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Circle_%28transparent%29.svg/1200px-Circle_%28transparent%29.svg.png",
+
+        "quien":"Santiago",
+        "hacecuanto": "18 meses",
+        "cuantomide":"<b>2000</b>Sq Ft",
+        "garajes": "1",
+        "baños":"2",
+        "dormitorios":"2"
+       
+      }
+      
+    ]
+  }
